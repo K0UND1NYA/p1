@@ -1,2 +1,5 @@
 print("hello world")
 print("im k0und1nya")
+print("hello world")
+print("hello world")
+print("hello world")
